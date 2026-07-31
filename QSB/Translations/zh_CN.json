@@ -8,9 +8,9 @@
   "SteamID": "Steam ID\n\n（您的多人存档数据将被覆盖）",
   "Connect": "连接",
   "Cancel": "取消",
-  "HostExistingOrNewOrCopy": "您想使用现有的多人探险存档，还是开启新存档，或是把单人探险存档复制为多人存档？",
-  "HostNewOrCopy": "您想开启一个新的存档，还是把现有的单人探险存档复制到多人探险存档？",
-  "HostExistingOrNew": "您想使用一个现有的多人探险存档，还是开启一个新的存档？",
+  "HostExistingOrNewOrCopy": "您想使用现有多人探险存档，还是开启新存档，或是复制单人探险存档作为多人存档？",
+  "HostNewOrCopy": "您想开启新存档，还是复制单人探险存档作为多人存档？",
+  "HostExistingOrNew": "您想使用现有多人探险存档，还是开启新存档？",
   "ExistingSave": "现有存档",
   "NewSave": "新建存档",
   "CopySave": "复制存档",
@@ -27,7 +27,7 @@
   "OWVersionMismatch": "《星际拓荒》版本号不匹配。（客户端：{0}，服务端：{1}）",
   "DLCMismatch": "DLC 安装情况不匹配。（客户端：{0}，服务端：{1}）",
   "GameProgressLimit": "游戏已进入后期阶段，无法加入。",
-  "AddonMismatch": "插件不匹配。（客户端：（客户端：{0} 个插件，服务端：{1} 个插件）",
+  "AddonMismatch": "插件不匹配。（客户端：{0} 个插件，服务端：{1} 个插件）",
   "PlayerJoinedTheGame": "{0}加入了游戏！",
   "PlayerLeftTheGame": "{0}离开了游戏！",
   "PlayerWasKicked": "{0}被踢出了游戏。",
@@ -66,10 +66,10 @@
       "{0}忘了瞅一眼氧气计",
       "{0}耗尽了所有空气",
       "{0}把氧气用光了",
-      "{0}应该不需要呼吸吧"
+      "{0}大概以为自己不需要呼吸"
     ],
     "Energy": [
-      "{0}被烤得外焦里嫩"
+      "{0}被电得外焦里嫩"
     ],
     "Supernova": [
       "{0}没跑赢时间",
